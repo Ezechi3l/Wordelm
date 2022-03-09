@@ -1,0 +1,16 @@
+{
+  "name": "wordlelm",
+  "version": "0.1.0",
+  "description": "Wordle en elm practice",
+  "author": "Kévin Trinanes",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "elm": "^0.19.1-5",
+    "vite": "^2.8.6",
+    "vite-plugin-elm": "^2.5.1"
+  }
+}
